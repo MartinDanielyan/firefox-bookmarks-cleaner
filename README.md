@@ -2,7 +2,7 @@
 
 firefox save all information about search and bookmark in file places.sqlite.
 
-You can finde it in your home direqtory vith  "~/.mozilla/firefox/somethinf.default-timestamp/places.sqlite"
+You can finde it in your home directory vith  "~/.mozilla/firefox/somethinf.default-timestamp/places.sqlite"
 
 
 This python script help you clean from bookmark all incorrect bookmarks with status code not equal 200, 301, 302.
